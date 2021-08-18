@@ -1,0 +1,101 @@
+[
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"title": "Data Science Course",
+		"description": "Our full-time data science course gives you the skills you need to launch your career in a data science team in only 9 weeks. From Pandas to Deep Learning, you will finish the course knowing how to explore, clean and transform data into actionable insights and how to implement machine learning models from start to finish in a production environment, working in teams with the best-in-class tool belt.",
+		"durationPerWeek": 8,
+		"cost": 8000,
+		"minimumSkill": "beginner",
+		
+		"school": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"title": "Web Development Course",
+		"description": "Our web development course is an immersive experience that takes you from beginner to junior software developer in 9 weeks. At the end of the course, you will know how to build a robust and user-friendly app that answers your users' needs, and to follow the right workflow to collaborate with other developers, designers and product managers.",
+		"durationPerWeek": 12,
+		"cost": 10000,
+		"minimumSkill": "intermediate",
+		
+		"school": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"title": "Cyber Security",
+		"description": "The Ironhack Cybersecurity Bootcamp covers the hands-on and practical skills necessary for Bootcampers to land high-paying careers in cybersecurity, one of the world’s fastest growing industries. The bootcamp is an accelerated cybersecurity training program designed to successfully prepare people with little or no background in IT for entry level jobs in cybersecurity, a highly in-demand and lucrative career path. The Bootcamp is delivered in a blended format at a Cybint Certified Center with both on campus learning and online self-paced activities.",
+		"durationPerWeek": 15,
+		"cost": 7000,
+		"minimumSkill": "intermediate",
+		
+		"school": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"title": "UX/UI Design Bootcamp",
+		"description": "In this course you will learn to create beautiful interfaces. It is a mix of design and development to create modern user experiences on both web and mobile",
+		"durationPerWeek": 9,
+		"cost": 12000,
+		"minimumSkill": "intermediate",
+		
+		"school": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"title": "Web Development Bootcamp",
+		"description": "This course enables students to design and build full stack JavaScript web applications. Students will learn the fundamentals of programming, with a big emphasis on battle-tested patterns and best practices. By the end of the course, students will have the ability to evaluate a problem and select the optimal solution using the language/framework best suited for a project’s scope. In addition to technical skills, the course will train students in how to think like a programmer. Students will learn how to deconstruct complex problems and break them into smaller modules. However, the most important skill that students will take away from this course is the ability to learn. Technology is fast-moving and ever-changing. A good programmer has a general understanding of the various programming languages and when to use them. A great programmer understands the fundamental structure and possesses the ability to learn any new language when required.",
+		"durationPerWeek": 13,
+		"cost": 13,
+		"minimumSkill": "beginner",
+		
+		"school": "5d713a66ec8f2b88b8f830b8",
+		"user": "5c8a1d5b0190b214360dc031"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"title": "mobile Development",
+		"description": "Become a skilled mobile applications developer.",
+		"durationPerWeek": 24,
+		"cost": 13000,
+		"minimumSkill": "intermediate",
+		
+		"school": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc031"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa5",
+		"title": "Cyber Security Course",
+		"description": "Prepare for a career in Cyber Security, a lucrative and fast-growing industry. In this course you'll be trained in practical skills and knowledge to land an entry-level job in Cyber Security or to advance in your current field by adding strong Cyber Security knowledge to your resume. The Cyber Security industry suffers from a big shortage of talent and with the increasing threat of cyber attacks, it is becoming a more pressing matter. The course is offered part-time so it's ideal to combine with your current occupation.",
+		"durationPerWeek": 12,
+		"cost": 6000,
+		"minimumSkill": "beginner",
+		
+		"school": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa6",
+		"title": "Data analysis",
+		"description": "The course prepares students in 5 months for the data analyst career path, allowing them to acquire a complete data culture and to be operational in the analysis and use of data processing tools.",
+		"durationPerWeek": 20,
+		"cost": 10000,
+		"minimumSkill": "intermediate",
+		
+		"school": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc032"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa7",
+		"title": "Web development",
+		"description": "We have designed an extremely effective training program that allows you to acquire the maximum number of skills in the shortest time possible. We can achieve such efficiency with the use of digital tools in learning, project-based pedagogy and personalised support from our trainers.",
+		"durationPerWeek": 20,
+		"cost": 11000,
+		"minimumSkill": "intermediate",
+		
+		"school": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc032"
+	}
+]

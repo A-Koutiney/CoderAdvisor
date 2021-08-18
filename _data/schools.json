@@ -1,0 +1,70 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"name": "Le Wagon",
+		"description":
+			"Le Wagon offers 9-week full-time and 24-week part-time courses in Web Development and Data Science at 40 campuses across the world. The 24-week part-time course meets on weekday evenings and Saturdays. With a community of students with various backgrounds (engineers, journalists, architects, designers, etc.) and more than 10,000 alumni worldwide, applicants join an exciting tech community. All the students of Le Wagon share the same technical background and apply industry best practices. This mix between diversity & technical expertise makes the community unique.",
+		"website": "https://www.lewagon.com/",
+		"phone": "068-8845094",
+		"email": "contact@lewagon.org",
+		"address": "Ijsbaanpad 9 Amesterdam",
+		"careers": ["Web Development", "Data Science"],
+		
+		"jobAssistance": true
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046",
+		"name": "Ironhack",
+		"description":
+			"Ironhack offers full-time and part-time bootcamps in Web Development, UX/UI design, Data Analytics and Cyber Security in Miami (Florida), Madrid and Barcelona (Spain), Paris (France) Mexico City (Mexico), Berlin (Germany), Amsterdam (Netherlands), Sao Paulo (Brazil), Lisbon (Portugal) and remotely. Ironhack uses a customized approach to education by allowing students to shape their experience based on personal goals. Students who graduate from the Web Development Bootcamp will be skilled in technologies like JavaScript, HTML5 and CSS3. The UX/UI program covers Design Thinking, Photoshop, Sketch, Balsamiq, InVision, and JavaScript. Data Analytics covers data wrangling/cleaning, APIs, web scraping, and intermediate topics in Git, MySQL, Python, Data visualization, Panda, and Machine Learning. The Data Analytics program allows students to load, clean, explore and extract valuable insights from datasets and cultivate languages, such as Python, SQL and Tableau. The Cyber Security course provides students with the hands-on skills they need to land a job in the growing cybersecurity industry. In the Cyber Security course, students will develop the most in-demand knowledge to be part of any company's cybersecurity workforce and become a cybersecurity professional",
+		"website": "https://ironhack.com",
+		"phone": "068-35749845",
+		"email": "hi@ironhack.com",
+		"address": "Velperweg 3 Arnhem",
+		"careers": [
+			"UX/UI Design",
+			"Cyber Security",
+			"Data Analysis",
+			"Web Development"
+		],
+
+		"jobAssistance": true,
+		"averageCost": 10000,
+		"jobGuarantee": false
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"name": "Wild Code",
+		"description":
+			"Wild Code School is a 5-month, European training program teaching in-demand digital skills through a blended learning approach. Wild Code School was created to train digital professionals to adapt to the changing work environment. The teaching style uses a combination of e-learning, in-class training, and hands-on projects where students master agile project management methods and other collaborative tools. Students are taught web development languages and application frameworks that vary from program to program. For example: PHP/Symfony, JavaScript, AngularJS, Vue.js, React or Java and Android.",
+		"website": "https://wildcodeschool.com",
+		"phone": "061-5586348",
+		"email": "contact@wildcodeschool.com",
+		"address": "Tuindorpstraat 186 Weert",
+		"careers": ["Web Development", "Data Analysis"],
+		"housing": false,
+		"jobAssistance": false,
+		
+		"jobGuarantee": false
+	
+	},
+	{
+		"_id": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032",
+		"name": "Codaisseur",
+		"description":
+			"Codaisseur offers an 11-week web development academy in Amsterdam and online. Their program prepares students for full-stack developer roles where professionals teach what they know and love through this unique course. In collaboration with industry professionals and employers, the Codaisseur Academy curriculum matches market demand. By starting with foundational knowledge of software development, students will then be equipped with cutting-edge technology skills by participating in code reviews, quality assessments, team collaboration, and more. All course materials and instruction are provided in English to best prepare students to work in an international coding environment.",
+		"website": "https://codaisseur.com",
+		"phone": "061-3566477",
+		"email": "admissions@codaisseur.com",
+		"address": "Lucretia van Merkenlaan 92 Utrecht",
+		"careers": ["Mobile Development", "Cyber Security"],
+		"housing": false,
+		"jobAssistance": true,
+		
+		"jobGuarantee": true
+	}
+]
